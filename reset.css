@@ -1,0 +1,19 @@
+:root {font : 14px/1.2 "Roboto", sans-serif;} /* or html */
+
+/* The above is targeting the root aka html element to set the entire document's font styling */
+
+
+body,
+body * {
+    margin:             unset;
+    box-sizing:         unset;
+    padding:            unset;
+    font-size:          unset;
+    color:              unset;
+    text-decoration:    unset;
+}
+
+/* The above will reset the browsers own default styling. We don't want the browser to interfere
+with our styling. We reset the css appropriately in order to be implicit. */
+
+ /* The asterisk after body enables all child elements to follow suit */
