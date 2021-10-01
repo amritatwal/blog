@@ -1,2 +1,2 @@
 # blog
-A example blog!
+An example blog!
