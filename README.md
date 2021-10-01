@@ -1,2 +1,2 @@
 # blog
-This is an example blog!
+A example blog!
