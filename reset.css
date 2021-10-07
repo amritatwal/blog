@@ -1,4 +1,4 @@
-:root {font : 14px/1.2 "Roboto", sans-serif;} /* or html */
+:root {font : 20px/1.2 "Roboto", sans-serif;} /* or html */
 
 /* The above is targeting the root aka html element to set the entire document's font styling */
 
@@ -12,6 +12,9 @@ body * {
     color:              unset;
     text-decoration:    unset;
 }
+
+h1 {font-size: 2em;}
+h2 {font-size: 1.5em;}
 
 /* The above will reset the browsers own default styling. We don't want the browser to interfere
 with our styling. We reset the css appropriately in order to be implicit. */
