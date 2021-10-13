@@ -33,4 +33,6 @@ figure {
 
 #btn-post-cmnt, #btn-view-cmnt {
     border: none;
+    background-color: hsl(000, 0%, 43%, 0.1);
+    padding: 0.2rem;
 }
