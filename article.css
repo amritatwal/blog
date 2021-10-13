@@ -24,3 +24,13 @@ figcaption {
 figure {
     display: block;
 }
+
+.comment-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#btn-post-cmnt, #btn-view-cmnt {
+    border: none;
+}
